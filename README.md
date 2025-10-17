@@ -1,4 +1,10 @@
-<h2 align="center">🎨 Hi, I’m <b>Mutamimah</b>!</h2>
+<!-- 🌸 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=160&section=header&text=Hi%2C%20I'm%20Mutamimah%20👋&fontSize=45&fontColor=fff&fontAlignY=38&desc=Designer%20%7C%20Creative%20Soul%20%7C%20Coffee%20Lover&descAlignY=60&descAlign=50" />
+</p>
+
+
+<h2 align="center">🎨 About me</h2>
 
 <p align="center">
 🌸 A passionate <b>designer</b> who loves creativity, color palettes, and clean layouts.  

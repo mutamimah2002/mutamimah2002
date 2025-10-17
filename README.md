@@ -1,19 +1,62 @@
-# 💫 About Me:
-👋 Hi, I’m Mutamimah!<br><br>💻 About Me:<br>Just an ordinary human who loves coding, traveling, and sometimes makes more errors than progress 😅<br>But hey, every bug means I’m learning something new (or at least trying to convince myself that I am 😆).<br><br>🚀 Currently Learning:<br><br>How to make code run without drama<br><br>HTML, CSS, JavaScript, and their chaotic little friends<br><br>A bit of React (just to look cool 😎)<br><br>Git & GitHub — so I can proudly say “I’m an open-source contributor!”<br><br><br>🧰 My Tools:<br><br>💻 VS Code — my best friend on lonely weekend nights<br><br>🌀 Git — where I store… memories (I mean, code versions 😜)<br><br>🎨 Figma — for those rare moments when I feel a little artsy<br><br>🎯 My Life Missions:<br><br>Build projects that don’t just work, but also make me proud 🚀<br><br>Contribute to open-source communities<br><br>Become a developer who actually understands her own code after 3 days 💡<br><br><br><br>📫 Find Me Here:<br><br>📧: mutamimahsibungsu@gmail.com<br><br>💬 Instagram: @mutam.mimah<br><br>✨ “Coding is like coffee — bitter at first, but totally addictive in the end.” ☕<br><br>
+<!-- 🌸 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=160&section=header&text=Hi%2C%20I'm%20Mutamimah%20👋&fontSize=45&fontColor=fff&fontAlignY=38&desc=Designer%20%7C%20Creative%20Soul%20%7C%20Coffee%20Lover&descAlignY=60&descAlign=50" />
+</p>
 
+<h2 align="center">🎨 About Me</h2>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mutam.mimah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mutamimahsibungsu@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=web-mutamimah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=web-mutamimah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=web-mutamimah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+🌸 A passionate <b>designer</b> who loves creativity, color palettes, and clean layouts.  
+When I'm not designing, you’ll probably find me in the kitchen trying new recipes 🍳😋  
+Design and cooking — both are art that come from the heart 💕  
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=web-mutamimah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  
+![Designer](https://img.shields.io/badge/🎨-Designer-pink?style=for-the-badge)  
+![Coffee Lover](https://img.shields.io/badge/☕-Coffee_Lover-ffb6c1?style=for-the-badge)  
+![Cooking Artist](https://img.shields.io/badge/🍳-Cooking_Artist-ffc0cb?style=for-the-badge)  
+![Creative Soul](https://img.shields.io/badge/🌸-Creative_Soul-ffb7d5?style=for-the-badge)  
+![Aesthetic Vibes](https://img.shields.io/badge/💖-Aesthetic_Vibes-f7a8b8?style=for-the-badge)  
 
+</p>
+
+---
+
+### 💡 What I Do
+- 🎨 Create simple yet meaningful designs  
+- 💻 Learn more about UI/UX and digital art  
+- ☕ Keep exploring creative ideas (with coffee, of course!)  
+
+---
+
+### 🧰 My Tools
+- 🖌 *Figma* — where my ideas come to life  
+- 💻 *Canva* — my go-to for quick and pretty visuals  
+- 🎨 *Adobe Photoshop / Illustrator* — when I’m feeling extra creative  
+- 🍳 *Spatula & Pan* — my “design tools” for the kitchen 😂  
+
+---
+
+### 🎯 My Mini Goals
+- 🌷 Combine design + tech to create something beautiful  
+- 📚 Keep learning and growing every day  
+- 😄 Make people smile through my works  
+
+---
+
+### 📫 Find Me Here
+- 💖 *Instagram:* [@mutam.mimah](https://www.instagram.com/mutam.mimah)  
+- 🎵 *TikTok:* [@mutam.mimah](https://www.tiktok.com/@mutam.mimah)  
+
+---
+
+<p align="center">
+✨ “Design is the silent ambassador of creativity — and a little sprinkle of fun!” 💅  
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mutamimahsibungsu&show_icons=true&theme=rose_pine&title_color=ff9eb8&icon_color=ffb6c1&text_color=f7d9e3&bg_color=2a2139" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutamimahsibungsu&layout=compact&theme=rose_pine&title_color=ff 

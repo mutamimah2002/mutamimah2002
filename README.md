@@ -37,8 +37,8 @@ Design and cooking — both are art that come from the heart 💕
 ---
 
 ### 🩷 Find Me Here
-- 💖 *Instagram:* [@mutam.mimah](https://www.instagram.com/mutam.mimah)  
-- 🎵 *TikTok:* [@mutam.mimah](https://www.tiktok.com/@mutam.mimah)  
+- 💖 *Instagram:* [@mutam.mimmah](https://www.instagram.com/mutam.mimah)  
+- 🎵 *TikTok:* [@mutam.mimah](https://www.tiktok.com/@mutam.mimmah)  
 
 ---
 
